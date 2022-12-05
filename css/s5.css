@@ -1,0 +1,43 @@
+body{
+background-color:darkorange;
+color:aqua;
+margin: 5px;
+padding: 2px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header,
+footer{
+text-align: center;
+background-color: pink;
+}
+.letter1{
+    color:chartreuse;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+.letter2{
+    color:darkblue
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+p{
+    text-align:justify;
+    text-indent: 8ch;
+}
+p::first-line{
+color: black;
+}
+p::first-letter{
+    font-size: 120%;
+    color:bisque;
+    text-decoration: underline;
+}
+section:hover{
+    background-color: blueviolet;
+}
+h2,
+h3,
+h4{
+    color: coral;
+    text-decoration-line: underline;
+}

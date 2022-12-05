@@ -1,0 +1,21 @@
+body{
+background-color:darkorange;
+color:aqua;
+margin: 5px;
+padding: 2px;
+}
+header,
+footer{
+text-align: center;
+background-color: blue;
+}
+p{
+text-align: center;
+text-indent: 8ch;
+}
+h2
+
+h4{
+color: brown;
+text-decoration:underline ;
+}

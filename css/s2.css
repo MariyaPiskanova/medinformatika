@@ -1,0 +1,11 @@
+body{
+background-color: darkorange;
+color:aqua(53, 53, 50);
+margin: 5px;
+padding: 2px;
+}
+header,
+footer{
+text-align: center;
+background-color: aquamarine;
+}
