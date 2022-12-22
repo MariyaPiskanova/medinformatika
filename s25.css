@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: #fffbefce;
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header,
+footer {
+    text-align: center;
+    background-color: black ;
+}
+p, ul {
+ text-align: justify;  
+ text-indent: 8ch; 
+}
+h1 {
+color: white;
+font-size: 68px;
+}
+h2, h3, h4 {
+    color: white;
+    text-decoration-line: underline;
+    
+    }
+
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
